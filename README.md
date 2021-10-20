@@ -9,7 +9,7 @@ ____
 * MySQL
 * Servlet API
 * JSP technology
-* Jstl
+* JSTL
 * Tomcat 9.0.50
 ____
 
