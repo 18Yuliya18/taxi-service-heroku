@@ -4,7 +4,7 @@ ____
 ## General info
 ____
 This project allows you to do main CRUD operations, create, authenticate and authorize a new driver, add car and manufacturer to the Data Base.
-##Setup
+## Setup
 ____
 1) To run this application please install:
 * [IntelliJ IDEA Ultimate](https://www.jetbrains.com/lp/intellij-frameworks/)
