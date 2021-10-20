@@ -8,8 +8,8 @@ import java.util.Properties;
 public class ConnectionUtil {
     public static final String URL = "jdbc:mysql://localhost:3307/taxi?useUnicode=true&use"
             + "JDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
-    public static final String USERNAME = "root";
-    public static final String PASSWORD = "Usenchenko19";
+    public static final String USERNAME = "****";
+    public static final String PASSWORD = "****";
     public static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 
     static {
